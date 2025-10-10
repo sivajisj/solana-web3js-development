@@ -1,1 +1,4 @@
-xd
+mkdir custom-onchain-tnx
+cd custom-onchain-tnx
+npm init -y
+npm install typescript @solana/web3.js@1 esrun @solana-developers/helpers@2
